@@ -25,6 +25,26 @@ To prepare and organize the Netflix dataset for further data analysis and visual
 - Duplicate Records: 0
 - Cleaned dataset successfully exported
 
+- ## Week 2 - Content Type Analysis Dashboard
+
+### Objective
+To analyze the distribution of Movies and TV Shows available in the Netflix dataset.
+
+### Tasks Performed
+- Loaded the cleaned Netflix dataset
+- Calculated the total number of Movies and TV Shows
+- Analyzed content distribution
+- Created a bar chart for content comparison
+- Created a pie chart for percentage distribution
+- Summarized key findings
+
+### Week 2 Results
+- Movies: 6,126
+- TV Shows: 2,664
+- Movies: Approximately 69.7%
+- TV Shows: Approximately 30.3%
+- Movies are the dominant content type in the dataset
+
 ## Technologies Used
 - Python
 - Pandas
@@ -32,7 +52,7 @@ To prepare and organize the Netflix dataset for further data analysis and visual
 
 ## Internship Progress
 - [x] Week 1 - Data Cleaning & Preparation
-- [ ] Week 2 - Content Type Analysis
+- [x] Week 2 - Content Type Analysis
 - [ ] Week 3 - Country-Wise Content Analysis
 - [ ] Week 4 - Release Year Trend Analysis
 
